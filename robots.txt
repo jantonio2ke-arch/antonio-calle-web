@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace with the final public URL before publication.
+# Sitemap: https://YOUR-PUBLIC-URL/sitemap.xml
